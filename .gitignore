@@ -1,1 +1,5 @@
 .vscode
+__debug_bin
+
+*.png
+*.zip
